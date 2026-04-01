@@ -1,4 +1,4 @@
-package com.trainning.spring.day1_bean;
+package com.trainning.spring.day1_bean.init_bean;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

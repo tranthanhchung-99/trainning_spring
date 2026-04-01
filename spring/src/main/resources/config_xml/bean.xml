@@ -8,9 +8,9 @@
        http://www.springframework.org/schema/context
        http://www.springframework.org/schema/context/spring-context.xsd">
     <context:annotation-config/>
-    <bean id="helloBeanAnnotation" class="com.trainning.spring.day1_bean.HelloBeanAnnotation"/>
-    <bean id="helloBean" class="com.trainning.spring.day1_bean.HelloBean"/>
-    <bean id="helloBeanXML" class="com.trainning.spring.day1_bean.HelloBeanXML"
+    <bean id="helloBeanAnnotation" class="com.trainning.spring.day1_bean.init_bean.HelloBeanAnnotation"/>
+    <bean id="helloBean" class="com.trainning.spring.day1_bean.init_bean.HelloBean"/>
+    <bean id="helloBeanXML" class="com.trainning.spring.day1_bean.init_bean.HelloBeanXML"
           init-method="initBean"
           destroy-method="destroyBean"/>
 </beans>

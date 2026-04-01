@@ -1,4 +1,4 @@
-package com.trainning.spring.day1_bean;
+package com.trainning.spring.day1_bean.init_bean;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;

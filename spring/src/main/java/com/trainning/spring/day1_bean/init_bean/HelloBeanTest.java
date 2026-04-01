@@ -1,4 +1,4 @@
-package com.trainning.spring.day1_bean;
+package com.trainning.spring.day1_bean.init_bean;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
